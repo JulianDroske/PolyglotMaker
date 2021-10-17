@@ -1,22 +1,20 @@
 # PolyglotMaker
-A simple ash script to make a script that can auto-unpack files when executed.
+Making a script that can automatically unpack files after executed.
 
 ---
 ---
 
 
 ## Usage:
-$ ./make [unzipForARM] [unzipForX86] [ZipFile] [outputFile] [autoScriptPath]
+$ ./make <unzipForARM> <unzipForX86> <ZipFile> <outputFile> [autoScriptPath]
 
 ---
 
-This script will create a shell script to [outputfile]
+This command will create a shell script into [outputfile]
 
 ---
 
-[autoScriptPath] can be empty.
-
-Only suppport unpack-zip.
+Only suppport zip.
 
 ---
 
