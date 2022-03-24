@@ -16,7 +16,7 @@ This command will create a shell script into [outputfile]
 
 ---
 
-Only suppport zip.
+Only support zip.
 
 ---
 
